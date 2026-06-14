@@ -163,7 +163,7 @@ This project helped me learn:
 
 # 👨‍💻 Author
 
-### Sathish Kumar
+### Sathish Kumar B
 
 Frontend & Java Developer
 
